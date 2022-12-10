@@ -1,3 +1,15 @@
 body {
     background-color: aqua;
 }
+
+.jumbotron {
+    background-image: url(../Images/Hero.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: calc(100vh - 10px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
