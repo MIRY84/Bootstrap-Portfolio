@@ -13,3 +13,11 @@ body {
 
 
 }
+
+.text-white {
+    font-size: larger;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 30px;
+    text-align: justify;
+}
