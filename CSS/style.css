@@ -10,10 +10,10 @@ body {
 }
 
 .jumbotron {
-    background-image: url(../Images/Hero.jpg);
+    background-image: url(../Images/Hero-new.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    height: calc(100vh - 10px);
+    height: calc(60vh - 10px);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -27,4 +27,11 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-shadow: 30px;
     text-align: justify;
+}
+
+/*Added some bg color to enhance the text*/
+.text-left{
+    background-color: rgba(60, 60, 60, 0.5);
+    display: flex;
+    align-items: center;
 }
