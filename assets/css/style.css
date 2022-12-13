@@ -22,7 +22,7 @@ body {
 }
 
 .jumbotron {
-    background-image: url(../Images/Hero-new.jpg);
+    background-image: url(../images/Hero-new.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: calc(60vh - 10px);
