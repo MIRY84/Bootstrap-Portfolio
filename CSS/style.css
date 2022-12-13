@@ -64,6 +64,8 @@ h3 {
 
 .card-title {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1.7em;
+  text-align: center;
 }
 
 .center-it{
