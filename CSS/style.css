@@ -21,6 +21,14 @@ body {
 
 }
 
+h2 {
+    border-style: solid;
+    border-color: rgb(116, 31, 31);
+    padding: 10px;
+    border-radius: 2em;
+    border-width: 10px;
+}
+
 .text-white {
     font-size: larger;
     font-style: oblique;
