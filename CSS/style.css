@@ -37,6 +37,12 @@ body {
 }
 
 
+.center-it{
+display: flex;
+justify-content: center;
+}
+
+
 
 
 
