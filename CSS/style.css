@@ -1,12 +1,24 @@
 body {
     background-color: rgb(131, 131, 76);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
 }
+
+.navbar {
+  font-size: 1.3em;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 
 .navbar-logo {
     min-height: 5px;
     padding: 0 5px 5px;
     width: 50px;
 
+}
+
+.bg-light {
+  background-color: rgb(131, 131, 76) !important;
 }
 
 .jumbotron {
